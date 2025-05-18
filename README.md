@@ -24,5 +24,3 @@ Das Repository wird verwendet, um verschiedene Funktionen, Tools oder Ideen ausz
 Der Inhalt dieses Repositories kann sich häufig ändern oder gelöscht werden. Es ist kein stabiles oder langfristiges Projekt.
 
 ---
-
-Wenn du Fragen hast oder Feedback geben möchtest, kannst du gerne ein Issue eröffnen.
